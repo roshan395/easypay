@@ -11,7 +11,7 @@ download
 WHTA I DID UNTILL NOW?
 opened folder 
 npm init
-npm install --save express
+npm install  --save express
 --created server
 --created app
 --made a route to test -> succeded; making first push to git
